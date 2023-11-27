@@ -1,0 +1,174 @@
+body {
+	background: url(officialtrailer-blogroll-dontscream-1697141258307.jpg); 
+	background-size: 140% 100%;
+}
+
+.ml-200 {
+	margin-left: auto;
+}
+
+.mr {
+	margin-right: auto;
+}
+
+.main-div {
+	width: 850px;
+	height: 2500px;
+	background: #343835;
+	margin-left: auto;
+	margin-right: auto;
+	padding-top: 30px;
+}
+
+.red-div {
+	width: 609px;
+	height: 53px;
+	background: #D28A8A;
+	margin-right: auto;
+	margin-left: auto;
+	padding-top: 10px;
+	border: solid black 3px;
+	border-radius: 10px;
+}
+
+.text {
+	text-align: center;
+	vertical-align: 20px;
+	font-size: 16px;
+}
+
+.green-div {
+	width: 609px;
+	background: #637A4B;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 50px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	border: solid black 3px;
+}
+
+.green-text {
+	margin-top: 2px;
+}
+
+.dsj-div {
+	width: 266px;
+	height: 202px;
+	background: #D9D9D9;
+	border: solid black 3px;
+	margin-top: 20px;
+}
+
+.do_sc_jpg {
+	width: 256px;
+	height: 192px;
+	margin-left: 5px;
+	margin-top: 5px;
+}
+
+.blue-div {
+	width: 610px;
+	height: 92px;
+	background: #282E67;
+	margin-left: auto;
+	margin-right: auto;
+	border: solid black 3px;
+	margin-top: 40px;
+	padding-top: 10px;
+}
+
+.white-t {
+	width: 264px;
+	height: 100px;
+	background: #D9D9D9;
+	margin-top: 25px;
+	border: solid black 3px;
+	transition: 1s;
+}
+
+	.white-t:hover {
+		width: 264px;
+		height: 100px;
+		background: red;
+		margin-top: 25px;
+		border: solid black 3px;
+	}
+
+.d-flex {
+	display: flex;
+}
+
+.teg {
+	width: 610px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.yellow-div {
+	width: 609px;
+	height: 89px;
+	background: #525718;
+	margin-left: auto;
+	margin-right: auto;
+	border: solid black;
+	margin-top: 50px;
+	padding-top: 10px;
+}
+
+.green-div2 {
+	width: 609px;
+	height: 89px;
+	background: #314E2D;
+	border: solid black;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 50px;
+	padding-top: 10px;
+}
+
+.purple-div {
+	width: 382px;
+	height: 100px;
+	background: #472B58;
+	border: solid black;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 50px;
+	border-radius: 10px;
+}
+
+.line {
+	width: 850px;
+	height: 1px;
+	background: #000000;
+	margin-top: 50px;
+}
+
+.block {
+        width: 100px;
+        height: 100px;
+        background: #C70039;
+       transition: 3s;
+    }
+
+    .block:hover {
+        width: 200px;
+        height: 200px;
+        background: url 
+    }
+
+.bye {
+	width: 609px;
+	height: 132px;
+	background: #BDBDBD;
+	border: solid black;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 50px;
+}
+
+.bye-text {
+	margin-top: 30px;
+	font-size: 20px;
+}
